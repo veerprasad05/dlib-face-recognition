@@ -1,3 +1,5 @@
+This project is a complete, camera-ready pipeline for real-time face detection, encoding, and identification built on *dlib*, *face_recognition*, and *OpenCV*.  It lets you capture training images with a webcam, generate high-precision facial embeddings, and instantly recognize known users live on screen—no cloud, just pure on-device Python 3.9.  The repository includes ready-to-run scripts, pre-built Windows wheels for *dlib*, and step-by-step setup instructions for Linux, macOS, and Windows.
+
 ## 🚀 Quick start
 
 1. **Clone and enter the repo**
