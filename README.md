@@ -108,4 +108,4 @@ Using the wheel sidesteps the long native build and MSVC errors many users hit.
 * PyTorch installation matrix 🔗citeturn5search1  
 * OpenCV-Python wheels 🔗citeturn7view2  
 * facenet-pytorch on PyPI 🔗citeturn6search0  
-* Python `venv` docs 🔗[citeturn8view0](https://docs.python.org/3/library/venv.html)  
+* Python `venv` docs [🔗](https://docs.python.org/3/library/venv.html)  
