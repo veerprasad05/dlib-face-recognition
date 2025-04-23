@@ -102,10 +102,9 @@ Using the wheel sidesteps the long native build and MSVC errors many users hit.
 
 ## 📚 References
 
-* CMake install guides 🔗 
-* Pre-built Windows dlib wheel 🔗citeturn7view0  
-* `face_recognition` install instructions 🔗citeturn2search1  
-* PyTorch installation matrix 🔗citeturn5search1  
-* OpenCV-Python wheels 🔗citeturn7view2  
-* facenet-pytorch on PyPI 🔗citeturn6search0  
+* CMake install guides [🔗](https://cmake.org/download/)  
+* `face_recognition` install instructions [🔗](https://github.com/ageitgey/face_recognition)
+* PyTorch installation matrix [🔗](https://pytorch.org/get-started/locally/)  
+* OpenCV-Python wheels [🔗](https://pypi.org/project/opencv-python/)
+* facenet-pytorch on PyPI [🔗](https://pypi.org/project/facenet-pytorch/)
 * Python `venv` docs [🔗](https://docs.python.org/3/library/venv.html)  
